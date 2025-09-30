@@ -1,3 +1,3 @@
-from miembro_familia import MiembroFamilia
+from miembrofamilia import MiembroFamilia
 
 guillermo = MiembroFamilia("Guillermo", "Windsor", "Windsor")
